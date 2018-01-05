@@ -1,12 +1,25 @@
 .link{
     text-decoration: none !important;
 }
-.head{
+.header{
     background-image: url("../img/sample_image.jpg");
     height: 600px;
     width: 100%;
     background-repeat: no-repeat;
-    background-position: 100%;
+    background-position: center center;
     background-size: cover;
+    background-attachment: fixed;
     color: #fff;
+}
+
+.header img{
+    height: 220px;
+    width: 550px;
+
+}
+.header button{
+    border-radius: 0;
+}
+.button{
+    width: 400px;
 }
