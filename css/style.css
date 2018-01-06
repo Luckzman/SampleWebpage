@@ -58,3 +58,15 @@
     color: #fff;
     margin-bottom: 10px;
 }
+
+/*TEAM*/
+.team{
+    text-align: center;
+}
+.team img{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 50%;
+
+}
