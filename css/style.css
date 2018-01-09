@@ -79,3 +79,9 @@ pricing ul,li{
 .pricing li{
     line-height: 10px;
 }
+
+/* client */
+.client img{
+    height: 25px;
+    width: 200px;
+}
