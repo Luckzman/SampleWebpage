@@ -85,3 +85,15 @@ pricing ul,li{
     height: 25px;
     width: 200px;
 }
+
+/*FOOTER*/
+.footer li{
+    list-style: none;
+}
+.footer foot{
+    width: 5px !important;
+    height: 5px !important;
+    border:solid #fff 2px !important;
+    border-radius: 0;
+    
+}
